@@ -19,7 +19,7 @@ yourlocalhost/login/register
 // order route for create order
 
 
-yourlocalhost/order/product/:[productId]
+yourlocalhost/order/product/:[productId]\n
 yourlocalhost/order/find/
 yourlocalhost/order/find/:[orderid]
 yourlocalhost/order/find/:[orderid]/checkout
