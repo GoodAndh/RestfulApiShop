@@ -53,6 +53,6 @@ func main() {
 		log.Println("berhasil down")
 	}
 	// migrate database "mysql://root@tcp(localhost:3306)/database_baru1" -path cmd/migrate up
-	//migrate create -ext sql -dir [cmd/migrate] [namafile]
+	// migrate create -ext sql -dir [cmd/migrate] [namafile]
 
 }
